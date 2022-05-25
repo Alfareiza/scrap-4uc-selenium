@@ -6,7 +6,7 @@
 
 ### Resumo
 
-Script acessa a várias contas de 4yousee manager, faz login, acessa num módulo e finalmente toma algumas informações para finalmente gerar um csv com todos os valores capturados.
+Script acessa a várias contas de 4yousee manager, faz login, acessa num módulo e toma algumas informações para finalmente gerar um csv com todos os valores capturados.
 
 ### Video do programa em execução
 
